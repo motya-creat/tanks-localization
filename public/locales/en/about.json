@@ -1,0 +1,42 @@
+{
+  "tankOne": {
+    "name": "Leopard 2A7V",
+    "description": "A modern modification of the German main battle tank Leopard 2. Introduced in update 2.33 'Air Dominance'."
+  },
+  "tankTwo": {
+    "name": "Leopard 2A4M",
+    "description": "A modern modification of the German main battle tank Leopard 2. Introduced in update 2.33 'Air Dominance'."
+  },
+  "tankThree": {
+    "name": "T-80BVM",
+    "description": "An upgrade of the T-80BV tank. During the modernization, the combat vehicle was equipped with third‑generation reactive armour 'Relikt'."
+  },
+  "tankFour": {
+    "name": "BMPT-72",
+    "description": "Russian tank support combat vehicle in the game War Thunder. Introduced in 2013 as a conversion of the T-72A/B chassis to extend the service life of obsolete tanks."
+  },
+  "tankFive": {
+    "name": "Challenger 2 OES",
+    "description": "A modification of the British main battle tank Challenger 2 for urban combat operations."
+  },
+  "tankSix": {
+    "name": "CRV BLOCK2",
+    "description": "Wheeled infantry fighting vehicle (IFV) of the UK, Rank VII, introduced into the game as one of the event rewards."
+  },
+  "tankSeven": {
+    "name": "VRCC",
+    "description": "Export version of the Italian Centauro for the Spanish Army, featured in the game War Thunder."
+  },
+  "tankEight": {
+    "name": "CV90105",
+    "description": "Swedish light tank in the game War Thunder, a prototype developed by the Swedish company Hägglunds in cooperation with the Belgian company CMI in the mid‑1990s."
+  },
+  "tankNine": {
+    "name": "Leopard 2A4",
+    "description": "A modification of the German main battle tank Leopard 2, entered service with Germany in the mid‑1980s."
+  },
+  "tankTen": {
+    "name": "T-90M",
+    "description": "Modern main battle tank (MBT) in the game War Thunder, developed under the 'Proryv' (Breakthrough) modernization program. It is a modification of the Russian T-90A tank."
+  }
+}
