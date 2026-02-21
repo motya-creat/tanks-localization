@@ -57,12 +57,12 @@
 .card {
   display: flex;
   width: 315px;
+  height: 450px;
   flex-direction: column;
   background-color: #202020;
   padding: 15px;
   border-radius: 20px;
 }
-
 
 h1 {
   text-align: center;
