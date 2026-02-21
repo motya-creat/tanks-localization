@@ -1,7 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import './App.css';
-import { Tank } from './tanks';
-
+import { Tank } from './Tanks.jsx';
 
 function App() {
 

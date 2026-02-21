@@ -5,7 +5,7 @@ import tanks from './data.js'
 const Tank = () => {
 
     const { t } = useTranslation("about")
-    console.log(tanks)
+    
     return (
         <div className="gallery">
             {tanks.map((tank) => {
